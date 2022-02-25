@@ -1,1 +1,1 @@
-# UD25SpringREST
+# UD25
